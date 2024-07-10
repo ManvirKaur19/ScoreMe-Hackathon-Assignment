@@ -49,4 +49,4 @@ The main functions in the script are:
 
 ## Note
 
-For this assignment I have added the 3 pdf test files name in the script itself along with the name of the extracted excel sheet name. So, If you run this script it will run for the test PDFs themselves.
+For this assignment I have added the 3 pdf test files name in the script itself along with the name of the extracted excel sheet name. So, If you run this script it will run for the test PDFs themselves. Also, While testing the file test6 wasn't getting read, so I believe it's corrupted. Kindly take a look into it.
